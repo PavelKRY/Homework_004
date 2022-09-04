@@ -28,10 +28,10 @@ for(i=0;i<array.Length;i++)
 {
     if(array[i] != 0)
     {
-if(numberClone1%array[i] == 0)
-{
-    sum += array[i];
-}
+        if(numberClone1%array[i] == 0)
+            {
+            sum += array[i];
+            }
     }
 }
 Console.WriteLine(sum);
