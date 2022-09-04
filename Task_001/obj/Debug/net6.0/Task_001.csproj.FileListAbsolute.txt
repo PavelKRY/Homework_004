@@ -1,0 +1,15 @@
+/home/pavel/Рабочий стол/Семинары знакомство с C#/Homework_C-Sharp_004/Task_001/obj/Debug/net6.0/Task_001.csproj.AssemblyReference.cache
+/home/pavel/Рабочий стол/Семинары знакомство с C#/Homework_C-Sharp_004/Task_001/obj/Debug/net6.0/Task_001.GeneratedMSBuildEditorConfig.editorconfig
+/home/pavel/Рабочий стол/Семинары знакомство с C#/Homework_C-Sharp_004/Task_001/obj/Debug/net6.0/Task_001.AssemblyInfoInputs.cache
+/home/pavel/Рабочий стол/Семинары знакомство с C#/Homework_C-Sharp_004/Task_001/obj/Debug/net6.0/Task_001.AssemblyInfo.cs
+/home/pavel/Рабочий стол/Семинары знакомство с C#/Homework_C-Sharp_004/Task_001/obj/Debug/net6.0/Task_001.csproj.CoreCompileInputs.cache
+/home/pavel/Рабочий стол/Семинары знакомство с C#/Homework_C-Sharp_004/Task_001/bin/Debug/net6.0/Task_001
+/home/pavel/Рабочий стол/Семинары знакомство с C#/Homework_C-Sharp_004/Task_001/bin/Debug/net6.0/Task_001.deps.json
+/home/pavel/Рабочий стол/Семинары знакомство с C#/Homework_C-Sharp_004/Task_001/bin/Debug/net6.0/Task_001.runtimeconfig.json
+/home/pavel/Рабочий стол/Семинары знакомство с C#/Homework_C-Sharp_004/Task_001/bin/Debug/net6.0/Task_001.dll
+/home/pavel/Рабочий стол/Семинары знакомство с C#/Homework_C-Sharp_004/Task_001/bin/Debug/net6.0/ref/Task_001.dll
+/home/pavel/Рабочий стол/Семинары знакомство с C#/Homework_C-Sharp_004/Task_001/bin/Debug/net6.0/Task_001.pdb
+/home/pavel/Рабочий стол/Семинары знакомство с C#/Homework_C-Sharp_004/Task_001/obj/Debug/net6.0/Task_001.dll
+/home/pavel/Рабочий стол/Семинары знакомство с C#/Homework_C-Sharp_004/Task_001/obj/Debug/net6.0/ref/Task_001.dll
+/home/pavel/Рабочий стол/Семинары знакомство с C#/Homework_C-Sharp_004/Task_001/obj/Debug/net6.0/Task_001.pdb
+/home/pavel/Рабочий стол/Семинары знакомство с C#/Homework_C-Sharp_004/Task_001/obj/Debug/net6.0/Task_001.genruntimeconfig.cache
